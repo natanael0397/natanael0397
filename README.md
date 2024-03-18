@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @natanael0397,meu nome completo é Natanael do Nascimento Freire, mas todos me chamam de Natan 😄.
+- 👋 Olá, Eu sou o @natanael0397,meu nome completo é Natanael do Nascimento Freire, mas todos me chamam de Natan 😄.
 -  Meu foco está em Python 🐍, Excel 📊 e SQL 💼, especialmente em análise de dados e machine learning 🤖. Você pode me encontrar no Instagram (@natanfr97) e no LinkedIn (www.linkedin.com/in/natanael-do-nascimento-freire-3b58aa161). Estou sempre aberto a novas oportunidades e colaborações! 😊
 
 <!---
